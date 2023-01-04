@@ -1,4 +1,4 @@
-# Simple recipes webpage :stew:
+# [Simple recipes webpage](https://hithalocesar.github.io/odin-recipes/) :stew:
 
 ## About :information_source:
 This is a HTML-only website made for the project "[Recipes](https://www.theodinproject.com/lessons/foundations-recipes)" proposed in the "Foundations" section of [The Odin Project](https://www.theodinproject.com/) updated curriculum.
