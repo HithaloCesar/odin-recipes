@@ -34,6 +34,12 @@ img {
   box-shadow: 0px 0px 20px black;
 }
 
+.center img,
+.center .bottom {
+  width: 540px;
+  height: auto;
+}
+
 figcaption {
   font-size: 12px;
 }
@@ -68,7 +74,6 @@ ul.recipes {
 
 .center .bottom {
   background-color: white;
-  width: 540px;
   border: 1px solid black;
   margin: 30px auto;
 }
@@ -83,6 +88,7 @@ ul.recipes {
 
 .recipe img {
   width: 500px;
+  height: auto;
   display: block;
   margin: auto;
 }
